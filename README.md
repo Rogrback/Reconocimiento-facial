@@ -31,7 +31,7 @@ Luego entrenamos los rostros obtenidos para generar un modelo de reconocimiento 
 ![eigenfaces](https://user-images.githubusercontent.com/53346752/102184785-096ef480-3e7e-11eb-848e-b05da3536110.png)
 
 ### Rogr:
-Y finalmente recorremos el modelo entrenado EigenFaces.xml para detectar en el vídeo en directo para ubicar a la persona con los datos recopilados:
+Y finalmente recorremos el modelo entrenado EigenFaces.xml para reconocer a la persona con los datos recopilados (reconocimientoFacial.py):
 
 ![rogr](https://user-images.githubusercontent.com/53346752/102184828-1855a700-3e7e-11eb-97c8-683b5657a7f8.png)
 
