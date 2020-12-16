@@ -1,7 +1,7 @@
 # Reconocimiento Facial
 ## Modelo solución:
 El procedimiento comienza de la siguiente manera:
-En capturandoRostros.py vamos a capturar las personas que deseamos reconocer. En entrenanamiento.py entrenamos el reconocedor de rostros con EigenFaces. Finalmente podremos probar el método en reconocimientoFacial.py
+En capturaRostros.py vamos a capturar las personas que deseamos reconocer. En entrenanamiento.py entrenamos el reconocedor de rostros con EigenFaces. Finalmente podremos probar el método en reconocimientoFacial.py
 
 ![modelo-solucion](https://user-images.githubusercontent.com/53346752/102184583-b2691f80-3e7d-11eb-93c2-987a5f25b36b.png)
 
@@ -30,7 +30,7 @@ Luego entrenamos los rostros obtenidos para generar un modelo de reconocimiento 
 
 ![eigenfaces](https://user-images.githubusercontent.com/53346752/102184785-096ef480-3e7e-11eb-848e-b05da3536110.png)
 
-### Rogr:
+### Roger:
 Y finalmente recorremos el modelo entrenado EigenFaces.xml para reconocer a la persona con los datos recopilados (reconocimientoFacial.py):
 
 ![rogr](https://user-images.githubusercontent.com/53346752/102184828-1855a700-3e7e-11eb-97c8-683b5657a7f8.png)
